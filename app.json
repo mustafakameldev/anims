@@ -1,0 +1,49 @@
+{
+  "expo": {
+<<<<<<< HEAD
+    "sdkVersion": "37.0.0",
+    "name": "jobs",
+    "slug": "jobs",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+=======
+    "name": "testX",
+    "slug": "testX",
+>>>>>>> edab31f... animations
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+<<<<<<< HEAD
+      "package": "com.goal.app",
+      "versionCode": 1,
+      "icon" :"./assets/icon.png"
+=======
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+>>>>>>> edab31f... animations
+    }
+  }
+}
